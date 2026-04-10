@@ -51,6 +51,8 @@ The skills are in `plugin/skills/` and can be used standalone.
 |---|---|
 | [afrotools](https://github.com/afrotools/afrotools) | Registry — specs + plugin |
 | [examples](https://github.com/afrotools/examples) | Working Next.js examples |
+| mcp *(private)* | MCP server — Streamable HTTP |
+| core *(private)* | Landing page + infrastructure |
 
 ---
 
@@ -58,11 +60,11 @@ The skills are in `plugin/skills/` and can be used standalone.
 
 | Provider | Category | Status |
 |---|---|---|
-| Wave | Payment | 🔄 In progress |
+| Paycard | Payment | ✅ Verified |
+| LengoPay | Payment | ✅ Verified |
+| Wave | Payment | 📋 Planned |
 | Djomy | Payment | 📋 Planned |
 | Bictorys | Payment | 📋 Planned |
-| LengoPay | Payment | 📋 Planned |
-| Paycard | Payment | 📋 Planned |
 | NimbaSMS | SMS | 📋 Planned |
 
 ---
