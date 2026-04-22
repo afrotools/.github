@@ -1,17 +1,17 @@
 # Afro.tools
 
-> Intègre Wave, Paycard ou Orange Money en moins d'une heure.
-> Ton agent IA génère le code correct du premier coup.
+> Integrate Wave, Paycard, or Orange Money in under an hour.
+> Your AI agent generates correct code on the first try.
 
-Afro.tools est un registre open source de specs d'APIs africaines —
-machine-readable, vérifiées contre les APIs réelles, consommées
-directement par les agents IA via MCP.
+Afro.tools is an open-source registry of African API specs —
+machine-readable, verified against live APIs, consumed directly
+by AI agents via MCP.
 
 ---
 
-## Démarrer en 30 secondes
+## Get started in 30 seconds
 
-**Claude Code — plugin (recommandé)**
+**Claude Code — plugin (recommended)**
 ```bash
 /plugin marketplace add afrotools/afrotools
 /plugin install afrotools
@@ -33,16 +33,16 @@ directement par les agents IA via MCP.
 
 ## Providers
 
-| Provider | Catégorie | Pays | Capabilities | Statut |
-|----------|-----------|------|-------------|--------|
+| Provider | Category | Country | Capabilities | Status |
+|----------|----------|---------|--------------|--------|
 | Paycard | payment | 🇬🇳 | 3 | ✅ AI Ready |
 | Djomy | payment | 🇬🇳 | 7 | 4 verified · 3 ready |
 | LengoPay | payment | 🇬🇳 | 8 | 2 verified · 6 ready |
 | Wave | payment | 🇸🇳 🇨🇮 🇲🇱 +8 | 12 | 📋 Ready |
 | NimbaSMS | sms | 🇬🇳 | 11 | 📋 Ready |
-| Bictorys | payment | — | — | 🗓 Planifié |
+| Bictorys | payment | — | — | 🗓 Planned |
 
-**Légende :** ✅ AI Ready = toutes les capabilities `verified` · X verified · Y ready = en attente de validation en prod · 📋 Ready = spec validée · 🗓 Planifié = specs à venir
+**Legend:** ✅ AI Ready = all capabilities `verified` · X verified · Y ready = awaiting production validation · 📋 Ready = spec validated · 🗓 Planned = specs coming soon
 
 ---
 
@@ -50,11 +50,11 @@ directement par les agents IA via MCP.
 
 | Repo | Description |
 |------|-------------|
-| [afrotools/afrotools](https://github.com/afrotools/afrotools) | Registry — specs + plugin Claude Code |
-| [afrotools/examples](https://github.com/afrotools/examples) | Exemples réels — valident les specs |
-| `mcp` *(privé)* | Serveur MCP — Streamable HTTP |
-| `core` *(privé)* | Landing page + infrastructure |
+| [afrotools/afrotools](https://github.com/afrotools/afrotools) | Registry — specs + Claude Code plugin |
+| [afrotools/examples](https://github.com/afrotools/examples) | Real examples — validate the specs |
+| `mcp` *(private)* | MCP server — Streamable HTTP |
+| `core` *(private)* | Landing page + infrastructure |
 
 ---
 
-[afro.tools](https://afro.tools) · [Standard ATSS](https://afro.tools/standard) · Apache 2.0
+[afro.tools](https://afro.tools) · [ATSS Standard](https://afro.tools/standard) · Apache 2.0
