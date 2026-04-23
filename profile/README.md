@@ -1,6 +1,6 @@
 # Afro.tools
 
-> Integrate Wave, Paycard, or Orange Money in under an hour.
+> Integrate Wave, Paycard, or Orange Money in a single prompt.
 > Your AI agent generates correct code on the first try.
 
 Afro.tools is an open-source registry of African API specs —
