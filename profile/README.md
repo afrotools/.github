@@ -1,27 +1,23 @@
 # Afro.tools
 
-> AI-ready infrastructure for African APIs.
+> Integrate Wave, Paycard, and any African API in a single prompt.
+> Your AI agent generates correct code on the first try.
 
-Afro.tools is an open registry of structured, verified API specs
-for African providers. Each spec is machine-readable, executable,
-and consumed directly by AI coding agents via MCP.
-
----
-
-## What's in this registry
-
-Every spec contains three things:
-
-- `schema.json` — machine-readable description of the API capability
-- `canonical_example.ts` — executable TypeScript integration pattern
-- `gotchas[]` — what the official docs don't tell you
+Afro.tools is an open-source registry of African API specs —
+machine-readable, verified against live APIs, consumed directly
+by AI agents via MCP.
 
 ---
 
-## Use with your AI coding agent
+## Get started in 30 seconds
 
-**MCP server** — works with any MCP-compatible client:
-Claude Code, Cursor, VS Code Copilot, Windsurf, and more.
+**Claude Code — plugin (recommended)**
+```bash
+/plugin marketplace add afrotools/afrotools
+/plugin install afrotools
+```
+
+**Cursor / Windsurf / VS Code Copilot**
 ```json
 {
   "mcpServers": {
@@ -33,47 +29,32 @@ Claude Code, Cursor, VS Code Copilot, Windsurf, and more.
 }
 ```
 
-**Claude Code plugin** — one-command install with auto-activation:
-```bash
-/plugin marketplace add afrotools/afrotools
-/plugin install afrotools
-```
-
-**SKILL.md** — compatible with Claude Code, Cursor, Gemini CLI,
-Codex, and other agents that support the skill format.
-The skills are in `plugin/skills/` and can be used standalone.
-
----
-
-## Repositories
-
-| Repo | Description |
-|---|---|
-| [afrotools](https://github.com/afrotools/afrotools) | Registry — specs + plugin |
-| [examples](https://github.com/afrotools/examples) | Working Next.js examples |
-| mcp *(private)* | MCP server — Streamable HTTP |
-| core *(private)* | Landing page + infrastructure |
-
 ---
 
 ## Providers
 
-| Provider | Category | Status |
-|---|---|---|
-| Paycard | Payment | ✅ Verified |
-| LengoPay | Payment | ✅ Verified |
-| Wave | Payment | 📋 Planned |
-| Djomy | Payment | 📋 Planned |
-| Bictorys | Payment | 📋 Planned |
-| NimbaSMS | SMS | 📋 Planned |
+| Provider | Category | Country | Capabilities | Status |
+|----------|----------|---------|--------------|--------|
+| Paycard | payment | 🇬🇳 | 3 | ✅ AI Ready |
+| Djomy | payment | 🇬🇳 | 7 | 4 verified · 3 ready |
+| LengoPay | payment | 🇬🇳 | 8 | 2 verified · 6 ready |
+| Wave | payment | 🇸🇳 🇨🇮 🇲🇱 +8 | 12 | 📋 Ready |
+| NimbaSMS | sms | 🇬🇳 | 11 | 📋 Ready |
+| Bictorys | payment | — | — | 🗓 Planned |
+
+**Legend:** ✅ AI Ready = all capabilities `verified` · X verified · Y ready = awaiting production validation · 📋 Ready = spec validated · 🗓 Planned = specs coming soon
 
 ---
 
-## Contribute
+## Repos
 
-Want to add a provider? See
-[CONTRIBUTING.md](https://github.com/afrotools/afrotools/blob/main/CONTRIBUTING.md).
+| Repo | Description |
+|------|-------------|
+| [afrotools/afrotools](https://github.com/afrotools/afrotools) | Registry — specs + Claude Code plugin |
+| [afrotools/examples](https://github.com/afrotools/examples) | Real examples — validate the specs |
+| `mcp` *(private)* | MCP server — Streamable HTTP |
+| `core` *(private)* | Landing page + infrastructure |
 
 ---
 
-[afro.tools](https://afro.tools) · Apache 2.0
+[afro.tools](https://afro.tools) · [ATSS Standard](https://afro.tools/standard) · Apache 2.0
