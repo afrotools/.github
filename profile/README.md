@@ -33,6 +33,7 @@ by AI agents via MCP.
 
 ## Providers
 
+<!-- tableau généré automatiquement par le pipeline — ne pas éditer manuellement -->
 | Provider | Category | Country | Capabilities | Status |
 |----------|----------|---------|--------------|--------|
 | Paycard | payment | 🇬🇳 | 3 | ✅ AI Ready |
@@ -40,7 +41,8 @@ by AI agents via MCP.
 | LengoPay | payment | 🇬🇳 | 8 | 2 verified · 6 ready |
 | Wave | payment | 🇸🇳 🇨🇮 🇲🇱 +8 | 12 | 📋 Ready |
 | NimbaSMS | sms | 🇬🇳 | 11 | 📋 Ready |
-| Bictorys | payment | — | — | 🗓 Planned |
+| Bictorys | payment | — | — | 🗓 Planifié |
+<!-- fin du tableau -->
 
 **Legend:** ✅ AI Ready = all capabilities `verified` · X verified · Y ready = awaiting production validation · 📋 Ready = spec validated · 🗓 Planned = specs coming soon
 
