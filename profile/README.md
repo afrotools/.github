@@ -39,9 +39,9 @@ by AI agents via MCP.
 | Paycard | payment | 🇬🇳 | 3 | ✅ AI Ready |
 | Djomy | payment | 🇬🇳 | 7 | 4 verified · 3 ready |
 | LengoPay | payment | 🇬🇳 | 8 | 2 verified · 6 ready |
-| Wave | payment | 🇸🇳 🇨🇮 🇲🇱 +8 | 12 | 📋 Ready |
 | NimbaSMS | sms | 🇬🇳 | 11 | 📋 Ready |
-| Bictorys | payment | — | — | 🗓 Planifié |
+| Orange Money Mali | payment | 🇲🇱 | 2 | 📋 Ready |
+| Wave | payment | 🇸🇳 🇨🇮 🇲🇱 +8 | 12 | 📋 Ready |
 <!-- fin du tableau -->
 
 **Legend:** ✅ AI Ready = all capabilities `verified` · X verified · Y ready = awaiting production validation · 📋 Ready = spec validated · 🗓 Planned = specs coming soon
