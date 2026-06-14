@@ -39,10 +39,14 @@ by AI agents via MCP.
 | Paycard | payment | 🇬🇳 | 3 | ✅ AI Ready |
 | Djomy | payment | 🇬🇳 | 7 | 4 verified · 3 ready |
 | LengoPay | payment | 🇬🇳 | 8 | 2 verified · 6 ready |
+| Bictorys | payment | 🇸🇳 🇨🇮 🇬🇳 +7 | — | 🗓 Planifié |
 | Flutterwave | payment | 🇳🇬 🇬🇭 🇰🇪 +10 | 57 | 📋 Ready |
+| KadevPay | payment | 🇨🇮 | 3 | 📋 Ready |
 | NimbaSMS | sms | 🇬🇳 | 11 | 📋 Ready |
 | Notch Pay | payment | 🇨🇲 🇨🇮 🇸🇳 +3 | 31 | 📋 Ready |
 | Orange Money Mali | payment | 🇲🇱 | 2 | 📋 Ready |
+| PayGate | payment | 🇹🇬 | 6 | 📋 Ready |
+| Qosic | payment | 🇹🇬 | 4 | 📋 Ready |
 | Wave | payment | 🇸🇳 🇨🇮 🇲🇱 +8 | 12 | 📋 Ready |
 <!-- fin du tableau -->
 
