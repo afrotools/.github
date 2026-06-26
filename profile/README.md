@@ -39,7 +39,7 @@ by AI agents via MCP.
 | Paycard | payment | 🇬🇳 | 3 | ✅ AI Ready |
 | Djomy | payment | 🇬🇳 | 7 | 4 verified · 3 ready |
 | LengoPay | payment | 🇬🇳 | 8 | 2 verified · 6 ready |
-| Bictorys | payment | 🇸🇳 🇨🇮 🇬🇳 +7 | — | 🗓 Planifié |
+| Bictorys | payment | 🇸🇳 🇨🇮 🇬🇳 +7 | 4 | 📋 Ready |
 | Flutterwave | payment | 🇳🇬 🇬🇭 🇰🇪 +10 | 57 | 📋 Ready |
 | KadevPay | payment | 🇨🇮 | 3 | 📋 Ready |
 | NimbaSMS | sms | 🇬🇳 | 11 | 📋 Ready |
