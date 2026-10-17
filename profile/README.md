@@ -37,10 +37,11 @@ by AI agents via MCP.
 | Provider | Category | Country | Capabilities | Status |
 |----------|----------|---------|--------------|--------|
 | Paycard | payment | 🇬🇳 | 3 | ✅ AI Ready |
+| SasPay | payment | 🇧🇫 🇧🇯 🇨🇩 +15 | 13 | 7 verified · 6 ready |
 | Djomy | payment | 🇬🇳 | 7 | 4 verified · 3 ready |
 | LengoPay | payment | 🇬🇳 | 8 | 2 verified · 6 ready |
 | Africa's Talking | sms | 🇧🇫 🇧🇯 🇨🇮 +17 | 2 | 📋 Ready |
-| Bictorys | payment | 🇸🇳 🇨🇮 🇬🇳 +7 | 4 | 📋 Ready |
+| Bictorys | payment | 🇸🇳 🇨🇮 🇲🇱 +3 | 4 | 📋 Ready |
 | Flutterwave | payment | 🇳🇬 🇬🇭 🇰🇪 +10 | 57 | 📋 Ready |
 | KadevPay | payment | 🇨🇮 | 3 | 📋 Ready |
 | NimbaSMS | sms | 🇬🇳 | 11 | 📋 Ready |
