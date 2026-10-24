@@ -38,6 +38,7 @@ by AI agents via MCP.
 |----------|----------|---------|--------------|--------|
 | Paycard | payment | 🇬🇳 | 3 | ✅ AI Ready |
 | SasPay | payment | 🇧🇫 🇧🇯 🇨🇩 +15 | 13 | 7 verified · 6 ready |
+| Smile ID | identity | 🇨🇮 🇸🇳 🇬🇳 | 9 | 7 verified · 2 ready |
 | Djomy | payment | 🇬🇳 | 7 | 4 verified · 3 ready |
 | LengoPay | payment | 🇬🇳 | 8 | 2 verified · 6 ready |
 | Africa's Talking | communications | 🇧🇫 🇧🇯 🇨🇮 +17 | 2 | 📋 Ready |
